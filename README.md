@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AsianMilkTea
+- 👀 I’m interested in comp sci and competitive programming
+- 🌱 I’m currently learning c++ (for cp) html, css, js, next.js, pytorch, tensorflow and python. 
+- 💞️ I’m looking to collaborate on a large scale machine learning/ai project.
+- 📫 How to reach me herbtao2@gmail.com
+- 😄 Pronouns: He, him
+- ⚡ Fun fact: --
